@@ -9,4 +9,4 @@
 - Toacy Oliveira
 
 ## Repositório:
-[https://github.com/miguel-coias/Benfica-news/edit/main/README.md] (
+[https://github.com/miguel-coias/Benfica-news/edit/main/README.md] (https://github.com/miguel-coias/Benfica-news)
