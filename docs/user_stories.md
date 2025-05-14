@@ -1,4 +1,4 @@
-# User Stories – Site de Notícias do Benfica
+# User Stories – Notícias do Benfica
 
 ---
 
