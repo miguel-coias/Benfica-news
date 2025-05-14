@@ -1,4 +1,4 @@
-# User Stories – Projeto "Notícias Benfica"
+# User Stories – Site de Notícias do Benfica
 
 ---
 
