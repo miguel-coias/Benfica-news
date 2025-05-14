@@ -7,8 +7,12 @@
 - Miguel Cóias (2023125426)
 - Catarina Pereira (2023105703)
 
+---
+
 ## Professor:
 - Toacy Oliveira
+
+---
 
 ## Repositório:
 (https://github.com/miguel-coias/Benfica-news)
