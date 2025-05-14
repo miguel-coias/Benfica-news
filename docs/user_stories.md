@@ -1,5 +1,7 @@
 # User Stories – Projeto "Notícias Benfica"
 
+---
+
 ## User Story 1
 Como adepto do Benfica,  
 quero poder marcar notícias como favoritas,  
