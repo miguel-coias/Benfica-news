@@ -1,4 +1,4 @@
-# Benfica-news
+# Notícias do Benfica
 É um site sobre as ultimas noticias do Benfica.
 
 ---
