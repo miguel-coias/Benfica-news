@@ -1,4 +1,4 @@
-# Documento de Visão - Site de Notícias do Benfica
+# Documento de Visão - Notícias do Benfica
 
 ---
 
