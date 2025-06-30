@@ -33,4 +33,4 @@
 ## Tela Sobre o Site / Sobre o Projeto
 - Informação sobre o objetivo do site  
 - Créditos do projeto escolar  
-- Contactos ou links úteis
+- Contacto via e-mail
