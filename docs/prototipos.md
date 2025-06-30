@@ -4,8 +4,7 @@
 
 ## Tela Inicial (Homepage)
 - Destaques com as últimas notícias  
-- Barra de pesquisa  
-- Menu de navegação (Notícias, Jogos, Favoritos, Sobre, etc.)
+- Menu de navegação (Notícias, Tabela da Liga, Calendário, Contacto, Sobre.)
 
 ---
 
@@ -16,20 +15,18 @@
 
 ## Tela de Notícia Individual
 - Conteúdo completo da notícia  
-- Botões para partilhar nas redes sociais  
-- Comentários
 
 ---
 
-## Tela de Próximos Jogos
-- Lista com datas, equipas, horários e local dos próximos jogos do Benfica  
-- Ligações para notícias relacionadas com cada jogo
+## Tabela da Liga
+- Posições atualizadas da liga Portugal
+- Quantidade de Jogos jogados, vitórias, empates, derrotas, diferênça de golos, pontos
 
 ---
 
 ## Problemas com o site 
-- Lista de Problemas (Visivel apenas para programadores do site)
 - Aba de comentários para problemas/recomendações no site
+- Acesso para que admin possam apagar comentários
 
 ---
 
